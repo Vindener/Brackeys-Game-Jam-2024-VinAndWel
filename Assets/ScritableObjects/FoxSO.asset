@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: FoxSO
   m_EditorClassIdentifier: 
   enemyName: Fox
-  enemyHealth: 5
+  enemyHealth: 6
   enemyDamageAmount: 1
